@@ -1,0 +1,23 @@
+{
+  "name": "lyric-web-scrapping",
+  "version": "1.0.0",
+  "description": "i made web scrapping for getting the lyrics from website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scrapping"
+  ],
+  "author": "fariz akbar",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0",
+    "request": "^2.88.2",
+    "sequelize": "^6.6.5"
+  }
+}
